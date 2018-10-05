@@ -2,7 +2,7 @@
 
 ### Performance
 
-Time to interactive: https://philipwalton.com/articles/idle-until-urgent/
+[Time to interactive](https://philipwalton.com/articles/idle-until-urgent/)
 
 ## Architecture
 
