@@ -9,6 +9,7 @@
 ### Distributed Systems
 
 + [Conflict-free replicated data-types](https://medium.com/@istanbul_techie/a-look-at-conflict-free-replicated-data-types-crdt-221a5f629e7e)
++ [Actor model](https://www.brianstorti.com/the-actor-model/)
 
 ### Authentication
 
