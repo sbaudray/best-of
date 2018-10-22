@@ -4,6 +4,10 @@
 
 + [Time to interactive](https://philipwalton.com/articles/idle-until-urgent/)
 
+### Network
+
++ [Cross-Origin Resource Sharing](http://performantcode.com/web/do-you-really-know-cors)
+
 ## Architecture
 
 ### Distributed Systems
