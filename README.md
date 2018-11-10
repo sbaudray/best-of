@@ -23,3 +23,7 @@
 
 + [Rewrite from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 + [SOLID Principles examples](https://blog.scottlogic.com/2018/06/26/solid-principles.html)
+
+## Organization
+
++ [Prioritization versus categorization](https://adamdrake.com/dont-categorize-prioritize.html)
