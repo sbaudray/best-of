@@ -27,3 +27,7 @@
 ## Organization
 
 + [Prioritization versus categorization](https://adamdrake.com/dont-categorize-prioritize.html)
+
+## Tests
+
++ [Mocks and explicit contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
