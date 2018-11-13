@@ -11,6 +11,7 @@
 ### Authentication
 
 + [Account system](https://blog.plan99.net/building-account-systems-f790bf5fdbe0)
++ [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 
 ## Architecture
 
