@@ -1,6 +1,7 @@
 ## Algorithms
 
 + [The Knight's Dialer](https://hackernoon.com/google-interview-questions-deconstructed-the-knights-dialer-f780d516f029)
++ [Glob Matching](https://thecodebarbarian.com/algorithm-interview-questions-in-js-glob-matching.html)
 
 ## Client
 
