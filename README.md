@@ -28,6 +28,7 @@
 
 + [Rewrite from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 + [Decision Tables](https://www.hillelwayne.com/post/decision-tables/)
++ [Beating the averages](http://www.paulgraham.com/avg.html)
 
 ## Design Patterns
 
