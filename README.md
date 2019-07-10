@@ -1,3 +1,7 @@
+## Functional Programming
+
++ [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+
 ## Algorithms
 
 + [The Knight's Dialer](https://hackernoon.com/google-interview-questions-deconstructed-the-knights-dialer-f780d516f029)
