@@ -1,3 +1,7 @@
+## Soft skills
+
+[Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
+
 ## Functional Programming
 
 + [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
