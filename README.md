@@ -1,10 +1,19 @@
+# Inspiring &/ Enlightning articles
+
 ## Soft skills
 
-[Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
+### Give it five minutes
+
+> A few years ago I used to be a hothead. Whenever anyone said anything,
+I’d think of a way to disagree. I’d push back hard if something didn’t fit my world-view...
+
+*Jason Fried* – [Link](https://signalvnoise.com/posts/3124-give-it-five-minutes)
 
 ## Functional Programming
 
-+ [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+### Functors, Applicatives, And Monads In Pictures
+
+*Aditya Bhargava* – [Link](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 ## Algorithms
 
