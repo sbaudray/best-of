@@ -43,6 +43,13 @@ I’d think of a way to disagree. I’d push back hard if something didn’t fit
 
 ## The art of software
 
+### Technical Debt
+
+> Unfortunately, today, “technical debt” has often come to mean something like “judiciously skimp on design today,
+so that we can go faster; we’ll clean it up later”.
+
+*Ron Jeffries* – [Link](https://ronjeffries.com/articles/019-01ff/tech-debt-from-twitter/)
+
 + [Rewrite from scratch](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 + [Decision Tables](https://www.hillelwayne.com/post/decision-tables/)
 + [Beating the averages](http://www.paulgraham.com/avg.html)
