@@ -1,5 +1,3 @@
-# Inspiring &/ Enlightning articles
-
 ## Soft skills
 
 ### Give it five minutes
